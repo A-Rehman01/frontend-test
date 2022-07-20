@@ -1,0 +1,32 @@
+.item {
+  border: 1px solid rgb(213, 213, 213);
+  border-radius: 8px;
+  padding: 8px;
+  margin: 8px;
+  width: auto;
+  cursor: pointer;
+  background: white;
+}
+.full-date {
+  margin: 4px;
+  font-weight: bold;
+}
+.full-date span {
+  color: rgb(207, 206, 206);
+  margin: 0 12px;
+}
+.details {
+  background: white;
+  padding: 12px;
+  border-radius: 8px;
+}
+.detail {
+  margin: 8px 0;
+  padding: 4px;
+}
+.archived {
+  color: red !important;
+}
+.MuiTabPanel-root {
+  padding: 0 !important;
+}
